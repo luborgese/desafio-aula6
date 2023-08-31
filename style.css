@@ -1,0 +1,100 @@
+body {
+    background-color: #DAACFA;    ;
+    font-family: calibri;
+    text-align: center;
+}
+
+.ajuste1{
+    font-size: 20px;
+    font-weight: bold;
+    color: azure;
+    border: 5px solid #A219D9;
+    background-color:#A219D9;   
+}
+
+.ajuste2 {
+    margin:70px;
+    background-color: #C97FDE;
+    border: 5px solid #C97FDE;
+    margin-right: 300px;
+    text-align: justify;
+}
+
+.ajuste3 {
+    font-size: 20px;
+    font-weight: bold;
+    color:azure;
+    border: 5px solid #A219D9;
+    background-color: #A219D9;
+}
+
+.ajuste4 {
+    background-color: #C97FDE;
+    border:30px solid #C97FDE;
+    margin-right: 100px;
+    text-align:left;
+    padding: 40px;
+}
+
+.ajuste5{
+    font-weight: bold;
+    color: azure;
+    font-size: 20px;
+    border: 5px solid #A219D9;
+    background-color: #A219D9; 
+}
+
+.ajuste6{
+    background-color:#C97FDE;
+    border: 10px solid #A219D9;
+    margin-right: 300px;
+    text-align: justify;
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.ajuste7{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ajuste8{
+    font-size: 20px;
+}
+
+.ajuste9{
+    font-size: 20px;
+    font-weight: bold;
+    text-align:left;
+}
+
+ul{
+    text-align:left;
+}
+
+.ajuste10{
+    font-size: 20px;
+    font-weight: bold;
+    text-align:left;
+}
+
+ol {
+    text-align: left;
+}
+
+.ajuste11{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+mark{
+    background-color: #A219D9;
+}
